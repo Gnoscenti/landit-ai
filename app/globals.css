@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+html { scroll-behavior: smooth; }
+body { background: #07090d; color: #eef2f7; font-family: system-ui, sans-serif; }
+button:not(:disabled) { cursor: pointer; }
